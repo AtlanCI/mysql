@@ -18,7 +18,6 @@ package mysql
 
 import (
 	"context"
-	"database/sql"
 	"database/sql/driver"
 	"net"
 	"sync"
